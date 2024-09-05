@@ -1,0 +1,45 @@
+ body {
+     box-sizing: border-box;
+ }
+
+ .outline {
+     height: 500px;
+     width: 400px;
+     margin: auto;
+     border: 2px solid brown;
+ }
+
+ .display {
+     border: 1px solid black;
+     height: 78px;
+     width: auto;
+     font-size: 70px;
+     text-align: right;
+ }
+
+ h1 {
+     text-align: center;
+ }
+
+ button {
+     height: 84px;
+     width: 97px;
+     border: 2px solid red;
+     font-size: 60px;
+ }
+
+ .zero {
+     width: 198px;
+ }
+
+ .operator,
+ .equals {
+     background-color: orange;
+     color: white;
+ }
+
+ .number,
+ .decimal {
+     background-color: darkgray;
+     color: white;
+ }
